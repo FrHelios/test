@@ -1,0 +1,14 @@
+{
+  "conversations": [
+    {
+      "phoneNumber": "1234567890",
+      "timestamp": "2023-08-09T14:30:00Z",
+      "recordingUrl": "https://mockserver.com/recordings/call_1234567890_20230809143000.mp3"
+    },
+    {
+      "phoneNumber": "9876543210",
+      "timestamp": "2023-08-09T15:45:00Z",
+      "recordingUrl": "https://mockserver.com/recordings/call_9876543210_20230809154500.mp3"
+    }
+  ]
+}
