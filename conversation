@@ -1,14 +1,16 @@
 {
-  "conversations": [
-    {
-      "phoneNumber": "1234567890",
-      "timestamp": "2023-08-09T14:30:00Z",
-      "recordingUrl": "https://github.com/SergLam/Audio-Sample-files/raw/master/sample.mp3"
-    },
-    {
-      "phoneNumber": "9876543210",
-      "timestamp": "2023-08-09T15:45:00Z",
-      "recordingUrl": "https://github.com/SergLam/Audio-Sample-files/raw/master/sample.mp3"
-    }
-  ]
+  "conversations": {
+    "1234567890": [
+      {
+        "timestamp": "2023-08-09T14:30:00Z",
+        "recordingUrl": "https://github.com/SergLam/Audio-Sample-files/raw/master/sample.mp3"
+      }
+    ],
+    "9876543210": [
+      {
+        "timestamp": "2023-08-09T15:45:00Z",
+        "recordingUrl": "https://github.com/SergLam/Audio-Sample-files/raw/master/sample.mp3"
+      }
+    ]
+  }
 }
